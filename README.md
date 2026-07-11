@@ -707,3 +707,10 @@ A full-stack expense management application designed to help users efficiently t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=180&section=footer"/>
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/HariKrishna-09/HariKrishna-09/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
