@@ -1,72 +1,37 @@
 <!-- ========================================================= -->
-<!--                     HARI KRISHNA TUPAKULA                 -->
-<!--              Premium GitHub Profile README               -->
+<!--          Hari Krishna Tupakula - GitHub Profile           -->
 <!-- ========================================================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Hari Krishna Tupakula
-</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusiast
-</h3>
+# 👋 Hi, I'm Hari Krishna Tupakula
 
-<p align="center">
+### 💻 Software Engineer • ☕ Java Developer • 🤖 AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;AWS+Cloud+Learner;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+🚀" />
 
-</p>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=HariKrishna-09&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/HariKrishna-09?style=for-the-badge&logo=github"/>
 
-<img src="https://komarev.com/ghpvc/?username=HariKrishna-09&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/HariKrishna-09?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/followers/HariKrishna-09?style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/stars/HariKrishna-09?style=for-the-badge&logo=github" />
-
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
 
-🎓 Final Year B.Tech Computer Science Engineering Student (Class of 2027)
-
-💡 Passionate about solving real-world problems through Software Development, Artificial Intelligence and Machine Learning.
-
-☕ Skilled in Java, Python, SQL, REST APIs, Object-Oriented Programming and Data Structures.
-
-🚀 Built and deployed Machine Learning applications including an AWS-hosted NLP Emotion Detection System and a Water Quality Prediction Model.
-
-🌱 Currently learning
-
-- Advanced Data Structures & Algorithms
-- ASP.NET Core
-- React
-- Microservices
-- Generative AI
-- Agentic AI
-- LLM Applications
-
-🎯 Career Goal
-
-> Java Developer | Software Development Engineer in Product-Based Companies
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+### 🌐 Connect with Me
 
 <a href="mailto:harikrishnatupakula5@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hari-krishna-tupakula-31713132a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/HariKrishna-09">
@@ -77,30 +42,219 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Fact
+## 🚀 Quick Overview
 
-> 💡 *"I believe consistency beats intensity."*
+```text
+🎓 Final Year B.Tech CSE Student
+🏫 Vignan's Foundation for Science, Research & Technology
+📍 Ponnuru, Andhra Pradesh, India
+
+💻 Java | Python | ASP.NET Core | React
+
+🤖 Artificial Intelligence & Machine Learning
+
+☁️ AWS Cloud Learner
+
+🎯 Seeking Java Developer / Software Development Engineer Roles
+```
+
+---
+
+> 💡 **"Consistency beats intensity."**
+
+---<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+# 👨‍💻 About Me
+
+I'm a **Final Year B.Tech Computer Science & Engineering student** passionate about building scalable software and intelligent AI-powered applications.
+
+With a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Software Engineering**, I enjoy solving real-world problems through clean, efficient, and impactful solutions.
+
+My primary interests include **Java Development, Full Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, and System Design**. I continuously improve my skills by building projects, solving coding problems, and exploring modern software technologies.
+
+---
+
+# 🚀 Currently Building
+
+- 🤖 AI-powered Software Applications
+- ☕ Java Backend Projects
+- 🌐 Full Stack Web Applications
+- ⚙️ REST APIs using ASP.NET Core
+- ☁️ Cloud-ready Applications on AWS
+
+---
+
+# 💬 Ask Me About
+
+```text
+☕ Java
+
+🐍 Python
+
+🌐 Full Stack Development
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+📊 Data Structures & Algorithms
+
+⚙️ REST APIs
+
+☁ AWS Cloud
+
+🗄 MySQL & MongoDB
+
+🏗 Software Engineering
+```
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Advanced DSA | ██████████░░ |
+| ASP.NET Core | ████████░░░ |
+| React | ███████░░░░ |
+| Microservices | ██████░░░░ |
+| Generative AI | █████████░░ |
+| Agentic AI | ███████░░░░ |
+| LLM Applications | ███████░░░░ |
+
+</div>
+
+---
+
+# 🎯 Career Objective
+
+> To secure a **Software Development Engineer (SDE)** or **Java Developer** role in a product-based company where I can contribute to building high-quality software, continuously enhance my technical expertise, and solve challenging real-world problems.
+
+---
+
+# 💼 Professional Highlights
+
+### 💻 Software Development
+
+- Strong understanding of Software Development Life Cycle (SDLC)
+- Experience with Agile & Scrum methodologies
+- Hands-on experience in REST API development
+- Knowledge of Object-Oriented Design Principles
+
+---
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Natural Language Processing (NLP)
+- Logistic Regression
+- Random Forest
+- Model Evaluation
+- Data Preprocessing
+
+---
+
+### 🌐 Full Stack Development
+
+- Responsive Web Applications
+- React
+- Node.js
+- Express.js
+- ASP.NET Core
+- MySQL
+- MongoDB
+
+---
+
+### ☁ Cloud Computing
+
+- AWS EC2
+- AWS S3
+- Git
+- GitHub
+- Linux
+
+---
+
+# 🎖 Core Strengths
+
+✔ Problem Solving
+
+✔ Data Structures & Algorithms
+
+✔ Object-Oriented Programming
+
+✔ Database Design
+
+✔ API Development
+
+✔ AI & Machine Learning
+
+✔ Team Collaboration
+
+✔ Continuous Learning
+
+---
+
+# 📌 Current Focus
+
+```text
+🎯 Crack Product-Based Company Interviews
+
+📚 Master Advanced DSA
+
+☕ Become an Expert Java Developer
+
+⚙ Master ASP.NET Core
+
+🏗 Learn Microservices Architecture
+
+🤖 Build AI-powered Applications
+
+🌍 Contribute to Open Source
+
+🚀 Become a Better Software Engineer Every Day
+```
+
+---
+
+# 💡 Fun Fact
+
+> **"I believe consistency beats intensity."**
 
 ---
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariKrishna-09&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2"/>
 
-</p>
+</p><!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+*"The right tool for the right problem."*
+
+</div>
 
 ---
-# 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql&theme=dark" />
 
 </p>
 
@@ -110,7 +264,15 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Responsive%20UI-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Single%20Page%20Applications-61DAFB?style=for-the-badge"/>
 
 </p>
 
@@ -120,13 +282,17 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" />
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agile%20Development-28A745?style=for-the-badge"/>
 
 </p>
 
@@ -136,17 +302,25 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL%20Optimization-005C84?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
 
 </p>
 
@@ -160,33 +334,57 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 
 <img src="https://img.shields.io/badge/NLTK-2C6DB2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
+
+</p>
+
+---
+
+## 📊 Data Science & Visualization
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/EDA-FF9800?style=for-the-badge"/>
 
----
-
-## ☁️ Cloud • DevOps • Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
+<img src="https://img.shields.io/badge/Data%20Analysis-009688?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🖥️ Development Environment
+## ☁️ Cloud & DevOps
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧰 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
@@ -196,39 +394,49 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Technical Expertise
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
+| Domain | Skills |
+|:------:|:------|
+| 💻 Programming | Java • Python • C • JavaScript |
+| 🌐 Web Development | React • Node.js • Express • ASP.NET Core |
+| 🤖 AI / ML | NLP • Machine Learning • TensorFlow • Scikit-learn |
+| 🗄️ Databases | MySQL • MongoDB |
+| ☁️ Cloud | AWS EC2 • AWS S3 |
+| 🧩 CS Fundamentals | DSA • OOP • DBMS • Operating Systems |
+| ⚙️ Software Engineering | REST APIs • SDLC • Agile • Git |
 
-<img src="https://img.shields.io/badge/Java%20Development-orange?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-success?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge"/>
+# 🚀 What I Enjoy Building
 
-<img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS%20Cloud-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System%20Design-1E90FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Competitive%20Programming-FFD700?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic_AI-00C853?style=for-the-badge"/>
-
-</p>
+- 🤖 AI & Machine Learning Applications
+- ☕ Java-Based Backend Systems
+- 🌐 Full Stack Web Applications
+- ⚙️ REST APIs
+- ☁️ Cloud-Native Solutions
+- 📊 Data-Driven Applications
+- 🏗️ Scalable Software Systems
 
 ---
 
 <p align="center">
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=3&theme=tokyonight&line1=Java,java,ED8B00;Python,python,3776AB;C,c,A8B9CC;JavaScript,javascript,F7DF1E;&line2=React,react,61DAFB;Node.js,node.js,339933;Express,express,000000;ASP.NET,dotnet,512BD4;&line3=MySQL,mysql,4479A1;MongoDB,mongodb,47A248;AWS,amazonaws,FF9900;Git,git,F05032;" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2"/>
 
-</p>
+</p><!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
 
----# 🚀 Featured Projects
+# 🚀 Featured Projects
+
+> *Projects that demonstrate my passion for software engineering, artificial intelligence, cloud computing, and full-stack development.*
+
+---
 
 <table>
 
@@ -238,40 +446,61 @@ Software Engineer | Aspiring Software Engineer | AI & Machine Learning Enthusias
 
 <h3 align="center">🤖 Human Emotion Detection Web App</h3>
 
-<div align="center">
-
-<a href="https://github.com/HariKrishna-09/human-emotion-prediction" target="_blank">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HariKrishna-09&repo=human-emotion-prediction&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
-
-### 📌 Overview
-
-An end-to-end NLP-powered emotion detection application that classifies human emotions from text using Machine Learning. The application was deployed on AWS EC2 with a Streamlit interface.
-
-### ✨ Key Features
-
-- Emotion Classification using NLP
-- TF-IDF Vectorization
-- Logistic Regression Model
-- Streamlit Web Interface
-- AWS Cloud Deployment
-- Interactive User Experience
-
-### 🛠 Tech Stack
-
-`Python` `NLTK` `Scikit-learn` `Streamlit` `AWS EC2` `Git`
-
 <p align="center">
 
 <a href="https://github.com/HariKrishna-09/human-emotion-prediction">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HariKrishna-09&repo=human-emotion-prediction&theme=tokyonight&hide_border=true"/>
+
 </a>
 
 </p>
+
+### 📖 Overview
+
+Developed an **AI-powered emotion detection application** that classifies emotions from user text using **Natural Language Processing (NLP)** and **Machine Learning**.
+
+The application performs text preprocessing, feature extraction, prediction, and cloud deployment with an intuitive Streamlit interface.
+
+---
+
+### ⭐ Key Features
+
+✅ NLP Text Cleaning
+
+✅ TF-IDF Vectorization
+
+✅ Multi-Class Emotion Classification
+
+✅ Logistic Regression Model
+
+✅ Streamlit Web Interface
+
+✅ AWS EC2 Deployment
+
+---
+
+### 🛠 Tech Stack
+
+`Python`
+
+`NLTK`
+
+`Scikit-learn`
+
+`Streamlit`
+
+`AWS EC2`
+
+`Git`
+
+---
+
+### 🎯 Impact
+
+- Improved understanding of NLP pipelines
+- Built a complete ML deployment workflow
+- Gained hands-on AWS cloud deployment experience
 
 </td>
 
@@ -279,42 +508,61 @@ An end-to-end NLP-powered emotion detection application that classifies human em
 
 <h3 align="center">💧 Water Quality Prediction</h3>
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/HariKrishna-09/WaterQualityPred" target="_blank">
+<a href="https://github.com/HariKrishna-09/WaterQualityPred">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HariKrishna-09&repo=WaterQualityPred&theme=tokyonight&hide_border=true"/>
 
 </a>
 
-</div>
+</p>
 
-### 📌 Overview
+### 📖 Overview
 
-A Machine Learning project that predicts multiple water quality parameters using a Random Forest-based multi-output regression model.
+Designed a **Machine Learning system** capable of predicting multiple water quality parameters using a **Random Forest Multi-Output Regression** model.
 
-### ✨ Key Features
+The project includes complete preprocessing, visualization, model evaluation, and performance analysis.
 
-- Multi-output Regression
-- Random Forest Model
-- Data Visualization
-- Model Evaluation
-- Exploratory Data Analysis
-- Performance Metrics
+---
+
+### ⭐ Key Features
+
+✅ Multi-Output Prediction
+
+✅ Random Forest Regression
+
+✅ Data Visualization
+
+✅ Feature Engineering
+
+✅ Model Evaluation
+
+✅ Exploratory Data Analysis
+
+---
 
 ### 🛠 Tech Stack
 
-`Python` `Scikit-learn` `Random Forest`
+`Python`
 
-`Matplotlib` `Seaborn` `Git`
+`Scikit-learn`
 
-<p align="center">
+`Random Forest`
 
-<a href="https://github.com/HariKrishna-09/WaterQualityPred">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+`Matplotlib`
 
-</p>
+`Seaborn`
+
+`Git`
+
+---
+
+### 🎯 Impact
+
+- Learned end-to-end ML workflow
+- Worked with environmental datasets
+- Improved data visualization skills
 
 </td>
 
@@ -324,9 +572,9 @@ A Machine Learning project that predicts multiple water quality parameters using
 
 ---
 
-## 💰 Smart Expense Tracker
+# 💰 Smart Expense Tracker
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/HariKrishna-09/Smart-Expense-Tracker">
 
@@ -334,259 +582,95 @@ A Machine Learning project that predicts multiple water quality parameters using
 
 </a>
 
-</div>
+</p>
 
-### 📌 Overview
+### 📖 Overview
 
-A full-stack expense management application designed to help users efficiently track daily expenses, categorize transactions, monitor spending patterns, and improve personal financial management.
+Built a **full-stack expense management application** that enables users to manage income, expenses, and financial records efficiently.
 
-### ✨ Key Features
+The application provides category-wise expense management, monthly tracking, and intuitive reports for better financial planning.
+
+---
+
+### ⭐ Key Features
 
 - 💵 Income & Expense Tracking
+
 - 📊 Expense Analytics
+
 - 📅 Monthly Reports
-- 🗂 Category-wise Management
+
+- 🗂 Category-wise Expense Management
+
 - 📈 Financial Insights
-- 🔒 Secure Data Storage
+
+- 💾 Secure Data Storage
+
+---
 
 ### 🛠 Tech Stack
 
-`Java` `MySQL` `HTML`
+`Java`
 
-`CSS` `JavaScript`
+`HTML`
 
-<p align="center">
+`CSS`
 
-<a href="https://github.com/HariKrishna-09/Smart-Expense-Tracker">
+`JavaScript`
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
+`MySQL`
 
 ---
 
-## 📈 Project Highlights
+### 🎯 Impact
 
-| 🚀 Project | ⭐ Domain | 💻 Technologies |
-|------------|-----------|-----------------|
-| Human Emotion Detection | Artificial Intelligence | Python, NLP, AWS |
-| Water Quality Prediction | Machine Learning | Scikit-learn, Random Forest |
-| Smart Expense Tracker | Full Stack Development | Java, MySQL, JavaScript |
+- Strengthened CRUD application development
+- Improved database design skills
+- Applied full-stack development concepts
 
 ---
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HariKrishna-09&theme=tokyonight"/>
-
-</p>
-
----# 📊 GitHub Analytics
+# 🏆 Project Highlights
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariKrishna-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishna-09&layout=compact&theme=tokyonight&hide_border=true"/>
+| Project | Domain | Key Technologies |
+|---------|--------|------------------|
+| 🤖 Human Emotion Detection | Artificial Intelligence | Python, NLP, AWS |
+| 💧 Water Quality Prediction | Machine Learning | Scikit-learn, Random Forest |
+| 💰 Smart Expense Tracker | Full Stack Development | Java, MySQL |
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 Engineering Skills Demonstrated
 
-<p align="center">
+### ✔ Software Engineering
 
-<img src="https://streak-stats.demolab.com?user=HariKrishna-09&theme=tokyonight&hide_border=true"/>
+- Object-Oriented Programming
+- SDLC
+- Agile Development
+- REST APIs
 
-</p>
+### ✔ Artificial Intelligence
 
----
+- Machine Learning
+- NLP
+- Classification
+- Regression
 
-# 🏆 GitHub Trophies
+### ✔ Full Stack Development
 
-<p align="center">
+- Frontend Development
+- Backend Development
+- Database Integration
 
-<img src="https://github-profile-trophy.vercel.app/?username=HariKrishna-09&theme=tokyonight&no-frame=true&row=2&column=4"/>
+### ✔ Cloud Computing
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKrishna-09&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# ⚡ GitHub Summary Cards
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariKrishna-09&theme=tokyonight"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HariKrishna-09&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HariKrishna-09&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 📌 Contribution Overview
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HariKrishna-09&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HariKrishna-09&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚙️ Development Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariKrishna-09&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
-
-</p>
-
----# 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 🎯 Details |
-|:---------------|:-----------|
-| 💯 CodeChef | Solved **1000+ coding problems** across **50+ contests** with a **100+ day coding streak** |
-| 🏆 Smart India Hackathon 2025 | Built a **Bilingual ChatBot Prototype** using NLP |
-| ☁ AWS | AWS Cloud Practitioner Essentials |
-| 💼 Infosys | Software Engineering & Agile Software Development |
-| 🌐 Cisco | HTML/CSS/JS Essentials |
-| 🐍 Cisco | Python Essentials |
-| 📊 Cisco | Data Science with Python |
-| 🤖 Intel | Introduction to Artificial Intelligence |
-| 🗄 Scaler | SQL for Beginners |
-
-</div>
-
----
-
-# 📜 Professional Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Infosys-Software%20Engineering-007CC3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cisco-Data%20Science-1BA0D7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cisco-HTML%20CSS%20JS-1BA0D7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Intel-Artificial%20Intelligence-0071C5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scaler-SQL-FF6F00?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| 🚀 Technology | 📈 Progress |
-|--------------|------------|
-| Advanced Data Structures & Algorithms | ██████████░░ |
-| ASP.NET Core | ███████░░░░ |
-| React | ███████░░░░ |
-| Microservices | █████░░░░░ |
-| Generative AI | ████████░░ |
-| Agentic AI | ██████░░░░ |
-| LLM Applications | ███████░░░ |
-
-</div>
-
----
-
-# 🎯 2026–2027 Goals
-
-- ✅ Master Advanced Data Structures & Algorithms
-- ✅ Become an Expert Java Developer
-- ✅ Build Scalable Full Stack Applications
-- ✅ Master ASP.NET Core Development
-- ✅ Learn Microservices Architecture
-- ✅ Develop AI-Powered Applications
-- ✅ Contribute to Open Source
-- ✅ Crack Product-Based Company Interviews
-
----
-
-# 🤝 Open to Collaborate On
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Hackathons-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Projects-FF4088?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
-
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet"/>
-
-<img src="https://img.shields.io/badge/Competitive%20Programming-00599C?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💼 Career Objective
-
-> Seeking opportunities as a **Java Developer** or **Software Development Engineer (SDE)** in product-based companies, where I can apply my expertise in software engineering, AI, and full-stack development while continuously learning and contributing to impactful products.
-
----
-
-# 🌟 Professional Highlights
-
-✨ Strong foundation in **Data Structures & Algorithms**
-
-☕ Passionate **Java Developer**
-
-🤖 Hands-on experience in **Artificial Intelligence & Machine Learning**
-
-☁ Experience deploying applications on **AWS Cloud**
-
-🌐 Full Stack Development using modern technologies
-
-📊 Experience in REST API Design and Agile/Scrum
-
-💡 Always learning, always building.
+- AWS EC2
+- AWS S3
+- GitHub Deployment
 
 ---
 
@@ -594,123 +678,1097 @@ A full-stack expense management application designed to help users efficiently t
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2"/>
 
-</p>
+</p><!-- ========================================================= -->
+<!--                 GITHUB ANALYTICS DASHBOARD                -->
+<!-- ========================================================= -->
 
----# 💻 Coding Profiles
+# 📊 GitHub Analytics
+
+> *A snapshot of my development journey, coding activity, and contributions.*
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Mr_unique_7435/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HariKrishna-09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishna-09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HariKrishna-09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HariKrishna-09&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKrishna-09&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 📌 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariKrishna-09&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Coding Snapshot
+
+<div align="center">
+
+| Metric | Focus |
+|:------:|:------|
+| 💻 Primary Language | Java |
+| 🤖 AI / ML | Python, Scikit-learn, TensorFlow |
+| 🌐 Full Stack | React, Node.js, ASP.NET Core |
+| ☁️ Cloud | AWS EC2, AWS S3 |
+| 🗄️ Database | MySQL, MongoDB |
+| 🛠️ Version Control | Git & GitHub |
+| 🎯 Goal | Product-Based Software Engineering |
+
+</div>
+
+---
+
+# 📈 Development Philosophy
+
+<div align="center">
+
+> **Write Clean Code. Build Useful Software. Learn Continuously.**
+
+</div>
+
+---
+
+## 🌟 Open Source Mindset
+
+- 🚀 Build projects that solve real-world problems
+- 📚 Learn continuously through hands-on development
+- 🤝 Contribute to the developer community
+- 🧩 Write maintainable and scalable code
+- 💡 Explore modern software engineering practices
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2"/>
+
+</p><!-- ========================================================= -->
+<!--          ACHIEVEMENTS • CERTIFICATIONS • GOALS            -->
+<!-- ========================================================= -->
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Description |
+|---------------|----------------|
+| 💯 **1000+ Problems Solved** | Solved 1000+ coding problems across 50+ CodeChef contests with a 100+ day coding streak. |
+| 🥇 **Smart India Hackathon 2025** | Built a Bilingual ChatBot Prototype using NLP as part of a collaborative team. |
+| ☁️ **AWS Cloud Deployment** | Successfully deployed Machine Learning applications on AWS EC2 and S3. |
+| 🤖 **AI Projects** | Developed and deployed NLP and Machine Learning applications solving real-world problems. |
+| 📚 **Continuous Learning** | Consistently upskilling through certifications, hands-on projects, and coding practice. |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Infosys-Software%20Engineering%20%26%20Agile-007CC3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+<img src="https://img.shields.io/badge/Cisco-HTML%20CSS%20%26%20JavaScript-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+<img src="https://img.shields.io/badge/Cisco-Data%20Science%20with%20Python-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+<img src="https://img.shields.io/badge/Intel-Introduction%20to%20AI-0071C5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scaler-SQL%20for%20Beginners-FF6F00?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 Career Goal
+
+> I aspire to build scalable, high-quality software as a **Java Developer** or **Software Development Engineer (SDE)** in a product-based company. My goal is to continuously improve my technical expertise, contribute to impactful products, and grow as a software engineer.
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| 🚀 Technology | 🎯 Goal |
+|--------------|---------|
+| ☕ Advanced Java | Build enterprise-grade applications |
+| ⚙️ ASP.NET Core | Develop scalable REST APIs |
+| ⚛️ React | Create responsive front-end applications |
+| 🏗️ Microservices | Design distributed systems |
+| 🤖 Generative AI | Build AI-assisted applications |
+| 🧠 Agentic AI | Develop autonomous AI workflows |
+| 💬 LLM Applications | Create intelligent AI-powered solutions |
+
+</div>
+
+---
+
+# 🤝 Open to Collaborate On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java%20Projects-ED8B00?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet"/>
+
+<img src="https://img.shields.io/badge/Hackathons-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Competitive%20Programming-2E8B57?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💡 Why Hire Me?
+
+✔ Strong foundation in **Data Structures & Algorithms**
+
+✔ Passionate **Java Developer** with practical project experience
+
+✔ Hands-on experience in **Artificial Intelligence & Machine Learning**
+
+✔ Knowledge of **REST APIs, SDLC, Agile, and Cloud Deployment**
+
+✔ Strong analytical thinking and problem-solving mindset
+
+✔ Continuous learner committed to improving every day
+
+---
+
+# 🚀 2026–2027 Roadmap
+
+- 🎯 Crack Product-Based Company Interviews
+- ☕ Become an Expert Java Developer
+- 🏗️ Master System Design & Microservices
+- ⚙️ Build Scalable Full Stack Applications
+- 🤖 Develop Real-World AI Products
+- 🌍 Contribute to Open Source Projects
+- ☁️ Gain deeper AWS Cloud expertise
+
+---
+
+<div align="center">
+
+### ⭐ *"Success is built through consistency, curiosity, and continuous learning."*
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2"/>
+
+</p><!-- ========================================================= -->
+<!--          CONNECT • CODING PROFILES • SNAKE                -->
+<!-- ========================================================= -->
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:harikrishnatupakula5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hari-krishna-tupakula-31713132a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HariKrishna-09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace with your CodeChef profile -->
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<!-- Replace with your HackerRank profile -->
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://leetcode.com/u/Mr_unique_7435/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# ⌚ WakaTime Statistics
+# 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
-<!-- Replace USER_ID after creating a WakaTime account -->
+| Platform | Profile |
+|-----------|---------|
+| 🐙 GitHub | **HariKrishna-09** |
+| 💛 LeetCode | **Mr_unique_7435** |
+| 💯 CodeChef | **1000+ Problems Solved** |
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-> **Note:** This widget works only after creating a WakaTime account and adding your username.
-
----
-
-# 🎵 Spotify — Now Playing
-
-<p align="center">
-
-<!-- Replace YOUR_SPOTIFY_USER_ID -->
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true"/>
-
-</p>
-
-> **Note:** Replace `YOUR_SPOTIFY_USER_ID` after connecting Spotify.
+</div>
 
 ---
 
-# 📫 Let's Connect
+# 📈 Developer Mindset
 
-<p align="center">
+```text
+✔ Write Clean Code
+
+✔ Build Useful Software
+
+✔ Keep Learning
+
+✔ Solve Real Problems
+
+✔ Collaborate & Grow
+
+✔ Stay Consistent
+```
+
+---
+
+# 🤝 Open to Opportunities
+
+I'm currently open to:
+
+- ☕ Java Developer Roles
+- 💻 Software Development Engineer (SDE) Roles
+- 🤖 AI / Machine Learning Projects
+- 🌐 Full Stack Development Projects
+- ⚙️ ASP.NET Core Development
+- 🚀 Open Source Contributions
+- 🏆 Hackathons & Technical Collaborations
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HariKrishna-09/HariKrishna-09/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 💬 Quote I Live By
+
+<div align="center">
+
+> ### **"Consistency beats intensity."**
+
+</div>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+⭐ Thank you for visiting my GitHub profile!
+
+If you like my work, consider **following me** and **starring** my repositories.
+
+Let's build something amazing together! 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=footer"/>
+
+</div><!-- ========================================================= -->
+<!--                     PREMIUM FOOTER                        -->
+<!-- ========================================================= -->
+
+---
+
+<div align="center">
+
+## 🚀 Building Today. Learning Every Day. Growing for Tomorrow.
+
+*"Great software isn't just written—it is designed, tested, improved, and continuously refined."*
+
+</div>
+
+---
+
+# 📌 Profile Summary
+
+<div align="center">
+
+| 🎓 Education | 💻 Focus | 🎯 Goal |
+|--------------|----------|---------|
+| B.Tech CSE (2027) | Java • AI • Full Stack | Software Development Engineer |
+
+</div>
+
+---
+
+# 📊 Quick Snapshot
+
+<div align="center">
+
+| Category | Highlights |
+|----------|------------|
+| ☕ Primary Language | Java |
+| 🤖 AI / ML | NLP • Machine Learning • TensorFlow • Scikit-learn |
+| 🌐 Full Stack | React • Node.js • ASP.NET Core |
+| ☁ Cloud | AWS EC2 • AWS S3 |
+| 🗄 Database | MySQL • MongoDB |
+| 💻 Core CS | DSA • OOP • DBMS • Operating Systems |
+| 🛠 Tools | Git • GitHub • VS Code • Linux |
+
+</div>
+
+---
+
+# 🌟 Personal Values
+
+<div align="center">
+
+💡 Continuous Learning
+
+🤝 Team Collaboration
+
+🚀 Innovation
+
+📚 Knowledge Sharing
+
+🎯 Problem Solving
+
+💻 Clean Code
+
+</div>
+
+---
+
+# 🎯 Mission
+
+> To build reliable, scalable, and impactful software while continuously learning modern technologies and contributing to meaningful projects that make a positive difference.
+
+---
+
+# 📈 GitHub Journey
+
+```text
+Learn 📚
+     ↓
+Build 💻
+     ↓
+Deploy ☁️
+     ↓
+Improve 🚀
+     ↓
+Repeat 🔁
+```
+
+---
+
+# ⭐ If You Like My Work
+
+<div align="center">
+
+### Don't forget to ⭐ my repositories!
+
+### Follow me for future projects and open-source contributions.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Amazing Together!
 
 <a href="mailto:harikrishnatupakula5@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hari-krishna-tupakula-31713132a/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HariKrishna-09">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Mr_unique_7435/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💬 Favorite Quote
+<div align="center">
 
-<p align="center">
+### ❤️ Thank you for visiting my GitHub Profile!
 
-> **"Consistency beats intensity."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=200&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-</p>
+</div>
+
+<!-- ========================================================= -->
+<!--                   END OF README                           -->
+<!-- ========================================================= --><!-- ========================================================= -->
+<!--              DEVELOPER JOURNEY & BEYOND                   -->
+<!-- ========================================================= -->
+
+# 🚀 My Developer Journey
+
+```text
+
+2023
+│
+├── Started B.Tech in Computer Science
+│
+2024
+│
+├── Learned Java
+├── Mastered OOP
+├── Started DSA
+│
+2025
+│
+├── Machine Learning
+├── AI Projects
+├── AWS Deployment
+├── Smart India Hackathon
+│
+2026
+│
+├── Full Stack Development
+├── ASP.NET Core
+├── React
+├── Product-based Company Preparation
+│
+2027
+│
+└── 🚀 Future Software Engineer
+```
 
 ---
 
-# 🌟 Thanks for Visiting!
+# 🧠 Engineering Philosophy
 
-<p align="center">
+<div align="center">
 
-⭐ If you like my work, consider giving a ⭐ to my repositories.
+### "Write code for humans first, computers second."
 
-</p>
+</div>
+
+I believe software engineering is not just about writing code.
+
+It's about
+
+- Understanding problems
+- Designing scalable solutions
+- Writing clean code
+- Collaborating with teams
+- Continuous improvement
+
+---
+
+# 💼 What I'm Looking For
+
+I'm currently interested in
+
+- ☕ Java Developer Roles
+
+- 💻 Software Development Engineer (SDE)
+
+- 🌍 Open Source Contributions
+
+- 🤖 AI & Machine Learning Projects
+
+- ☁ Cloud Engineering
+
+- 🌐 Full Stack Development
+
+- 🚀 Innovative Product Teams
+
+---
+
+# 📖 Favorite Technologies
+
+<div align="center">
+
+Java ❤️
+
+Python ❤️
+
+React ❤️
+
+ASP.NET Core ❤️
+
+Artificial Intelligence ❤️
+
+Machine Learning ❤️
+
+AWS ❤️
+
+Git ❤️
+
+</div>
+
+---
+
+# 📈 Current Goals
+
+🎯 Solve 2000+ DSA Problems
+
+🎯 Master System Design
+
+🎯 Build 20+ Real Projects
+
+🎯 Become AWS Certified
+
+🎯 Contribute to Open Source
+
+🎯 Crack Product-Based Companies
+
+🎯 Never Stop Learning
+
+---
+
+# ⚡ Daily Routine
+
+```text
+
+Wake Up ☀
+
+↓
+
+Learn 📚
+
+↓
+
+Code 💻
+
+↓
+
+Build 🚀
+
+↓
+
+Debug 🐞
+
+↓
+
+Commit ✅
+
+↓
+
+Repeat 🔁
+
+```
+
+---
+
+# 🌎 Beyond Coding
+
+📚 Reading Tech Blogs
+
+🎧 Listening to Podcasts
+
+🧩 Solving Coding Challenges
+
+🤝 Collaborating on Projects
+
+🚀 Exploring New Technologies
+
+---
+
+# 📊 My GitHub Goal
+
+<div align="center">
+
+⭐ Build meaningful software
+
+⭐ Help the community
+
+⭐ Learn continuously
+
+⭐ Share knowledge
+
+⭐ Inspire developers
+
+</div>
+
+---
+
+# 💬 Final Message
+
+<div align="center">
+
+## Thanks for visiting my profile!
+
+If my work interests you, feel free to connect, collaborate, or explore my repositories.
+
+### Let's build technology that creates real impact. 🚀
+
+</div>
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Happy%20Coding!&fontAlign=50&fontAlignY=40&fontSize=42&animation=twinkling"/>
 
 </p>
-## 🐍 Contribution Snake
+
+<!-- ========================================================= -->
+<!--                     END OF README                         -->
+<!-- ========================================================= --><!-- ========================================================= -->
+<!--                 DEVELOPER DASHBOARD                       -->
+<!-- ========================================================= -->
+
+# 📌 Developer Dashboard
+
+<div align="center">
+
+### 🚀 Turning Ideas into Scalable Software
+
+</div>
+
+---
+
+# 💼 Currently Working On
+
+- 🚀 ASP.NET Core REST APIs
+- ☕ Advanced Java Development
+- 🤖 AI & Machine Learning Projects
+- 🌐 Full Stack Web Applications
+- ☁ AWS Cloud Deployment
+- 📚 Product-Based Company Interview Preparation
+
+---
+
+# 🎯 2027 Vision
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| ☕ Become Java Expert | 🚀 In Progress |
+| 📚 Master Advanced DSA | 🚀 In Progress |
+| ⚙ Learn System Design | 🚀 In Progress |
+| ☁ AWS Cloud | 🚀 Learning |
+| 🌐 Full Stack Development | 🚀 Active |
+| 🤖 AI Engineering | 🚀 Building Projects |
+| 💼 Land SDE Role | 🎯 Target 2027 |
+
+</div>
+
+---
+
+# 📊 Skills Snapshot
+
+```text
+Java                 ████████████████████ 95%
+
+Python               ██████████████████   90%
+
+SQL                  █████████████████    88%
+
+React                ████████████         70%
+
+ASP.NET Core         ███████████          65%
+
+Artificial Intelligence
+                     ███████████████      82%
+
+Machine Learning
+                     ███████████████      82%
+
+AWS                  ██████████           60%
+```
+
+---
+
+# ⚡ Software Engineering Principles
+
+✔ Write Readable Code
+
+✔ Keep It Simple
+
+✔ Reusable Components
+
+✔ Scalable Architecture
+
+✔ Performance Matters
+
+✔ Security First
+
+✔ Continuous Learning
+
+✔ Team Collaboration
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+DSA
+      ↓
+
+Advanced Java
+      ↓
+
+Spring Boot
+      ↓
+
+ASP.NET Core
+      ↓
+
+React
+      ↓
+
+Microservices
+      ↓
+
+System Design
+      ↓
+
+Cloud
+      ↓
+
+DevOps
+```
+
+---
+
+# 🏆 Milestones
+
+🎯 1000+ Coding Problems ✅
+
+🎯 Smart India Hackathon ✅
+
+🎯 AWS ML Deployment ✅
+
+🎯 AI Applications ✅
+
+🎯 Full Stack Projects ✅
+
+⬜ Open Source Contributor
+
+⬜ Product-Based Company
+
+⬜ International Hackathons
+
+---
+
+# 💡 What Makes Me Different?
+
+🚀 Strong Computer Science Fundamentals
+
+☕ Java First Approach
+
+🤖 AI + Software Engineering Combination
+
+📚 Continuous Learner
+
+⚡ Fast Problem Solver
+
+🌍 Team Player
+
+🎯 Growth Mindset
+
+---
+
+# ❤️ Support My Work
+
+If you find my repositories useful,
+
+⭐ Star them
+
+🍴 Fork them
+
+👨‍💻 Follow my GitHub
+
+🤝 Connect on LinkedIn
+
+---
+
+<div align="center">
+
+## ⭐ Thank You ⭐
+
+"Building software with curiosity, consistency, and purpose."
+
+</div>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/HariKrishna-09/HariKrishna-09/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=footer&text=See%20You%20Again!&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
-</p>
+</p><!-- ========================================================= -->
+<!--                 INTERACTIVE DEVELOPER PROFILE             -->
+<!-- ========================================================= -->
+
+# 🎮 Developer Mode
+
+```java
+public class HariKrishna {
+
+    String role = "Software Engineer";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "C"
+    };
+
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "System Design",
+        "Full Stack Development",
+        "Cloud Computing"
+    };
+
+    String[] currentlyLearning = {
+        "Advanced DSA",
+        "ASP.NET Core",
+        "React",
+        "Microservices",
+        "Generative AI",
+        "LLMs"
+    };
+
+    String goal = "Build software that creates real-world impact.";
+
+    public void sayHello() {
+        System.out.println("Thanks for visiting my GitHub 🚀");
+    }
+}
+```
+
+---
+
+# 🧩 Competitive Programming Journey
+
+<div align="center">
+
+| Platform | Progress |
+|----------|----------|
+| 💯 CodeChef | 1000+ Problems Solved |
+| 💛 LeetCode | Active Problem Solver |
+| 🧠 DSA | Daily Practice |
+| 🚀 Interview Prep | Product-Based Companies |
+
+</div>
+
+---
+
+# 📅 Weekly Focus
+
+```text
+Monday     ☕ Java
+
+Tuesday    📚 DSA
+
+Wednesday  🌐 React
+
+Thursday   ⚙ ASP.NET Core
+
+Friday     🤖 AI / ML
+
+Saturday   🚀 Projects
+
+Sunday     📖 Learning + Planning
+```
+
+---
+
+# 💻 Terminal
+
+```bash
+> whoami
+
+Hari Krishna Tupakula
+
+> role
+
+Software Engineer
+
+> skills
+
+Java
+Python
+React
+ASP.NET Core
+Machine Learning
+
+> current_status
+
+Learning...
+Building...
+Improving...
+
+> future
+
+Software Development Engineer
+```
+
+---
+
+# 🌍 Outside Coding
+
+🏸 Badminton
+
+📷 Photography
+
+🎧 Music
+
+📖 Reading Tech Blogs
+
+🤝 Open Source
+
+☕ Coffee
+
+---
+
+# 🧠 Motto
+
+> "Learn. Build. Share. Repeat."
+
+---
+
+<div align="center">
+
+⭐ Thanks for scrolling all the way to the end! ⭐
+
+</div><!-- ========================================================= -->
+<!--               MY ENGINEERING MANIFESTO                    -->
+<!-- ========================================================= -->
+
+# 🧭 My Engineering Manifesto
+
+> *Software engineering is more than writing code—it's about solving meaningful problems with curiosity, discipline, and continuous improvement.*
+
+## 🚀 What I Believe
+
+✔ Every project is an opportunity to learn something new.
+
+✔ Clean, maintainable code is more valuable than clever code.
+
+✔ Strong computer science fundamentals create better engineers.
+
+✔ Building projects teaches more than watching tutorials.
+
+✔ Consistency beats intensity.
+
+✔ Collaboration accelerates growth.
+
+✔ Every bug is an opportunity to understand a system better.
+
+---
+
+# 🎯 My Engineering Principles
+
+```text
+Learn Continuously 📚
+        ↓
+Think Before Coding 🧠
+        ↓
+Write Clean Code 💻
+        ↓
+Test Thoroughly ✅
+        ↓
+Deploy Confidently ☁️
+        ↓
+Improve Relentlessly 🚀
+```
+
+---
+
+# 🌱 My Growth Mindset
+
+Every day I try to become:
+
+• A better programmer than yesterday.
+
+• A better teammate than last week.
+
+• A better problem solver than last month.
+
+• A better software engineer than last year.
+
+---
+
+# 🔥 What You'll Find on My GitHub
+
+🤖 Artificial Intelligence Projects
+
+☕ Java Applications
+
+🌐 Full Stack Development
+
+⚙ REST APIs
+
+📊 Machine Learning
+
+☁ Cloud Projects
+
+📚 Data Structures & Algorithms
+
+🚀 Continuous Learning
+
+---
+
+# 💡 My Long-Term Vision
+
+To become a Software Development Engineer who builds scalable products that improve people's lives while continuously learning, mentoring others, and contributing to the open-source community.
+
+---
+
+<div align="center">
+
+## ⭐ "Code with Purpose. Learn with Curiosity. Build with Passion."
+
+</div>
+
+---
